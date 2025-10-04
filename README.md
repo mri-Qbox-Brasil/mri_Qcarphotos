@@ -12,7 +12,7 @@ Sistema simples e eficiente para tirar, salvar e enviar fotos dos veículos do s
 ## 🚀 Como Usar no Jogo
 
 - Antes de tudo de un teleport para essas coordenadas 
-## ```-969.58, -3513.05, 14.15```
+# ```-969.58, -3513.05, 14.15```
 
 # niciar o processo:
 
