@@ -24,7 +24,7 @@ Configura a câmera
 Tira a screenshot
 Envia pro Discord via webhook
 Repete até todos os veículos do config.lua forem processados
-🛑 Parar o processo manualmente:
+- 🛑 Parar o processo manualmente:
 ```/stop_screenshot```
 
 ---
