@@ -12,16 +12,18 @@ Sistema simples e eficiente para tirar, salvar e enviar fotos dos veículos do s
 ## 🚀 Como Usar no Jogo
 
 - Antes de tudo de un teleport para essas coordenadas -969.58, -3513.05, 14.15
-- ✅ Iniciar o processo:
-- /screenshot_vehicles
 
-- O script vai:
-- Spawna o veículo
-- Configura a câmera
-- Tira a screenshot
-- Envia pro Discord via webhook
-- Repete até todos os veículos do config.lua forem processados
-- 🛑 Parar o processo manualmente:
-- /stop_screenshots
+# niciar o processo:
+
+```/screenshot_vehicles```
+
+# O script vai:
+Spawna o veículo
+Configura a câmera
+Tira a screenshot
+Envia pro Discord via webhook
+Repete até todos os veículos do config.lua forem processados
+🛑 Parar o processo manualmente:
+/stop_screenshots
 
 ---
